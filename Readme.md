@@ -1,4 +1,6 @@
 # Human Resources Analysis 
+
+[View raw file](./HR_Analysis.pbix)
 ## Introduction
 
 This is a synthetic dataset built around a deep dive into Human 
