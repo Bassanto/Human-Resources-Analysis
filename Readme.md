@@ -1,5 +1,8 @@
 # Human Resources Analysis 
+<img width="856" height="482" alt="Screenshot 2026-09-19 215420" src="https://github.com/user-attachments/assets/544192b3-b7b0-4a64-a003-38764fd47b93" />
 
+
+Here is the interactive dashboard !
 [View raw file](./HR_Analysis.pbix)
 ## Introduction
 
@@ -30,7 +33,8 @@ Contains each department's `department_id`, `department_name`, and
 `location`. This table was clean by design, with no data quality 
 issues.
 
-![Department Table](/0_Resources/Images/department_table.png)
+<img width="332" height="222" alt="Screenshot 2026-09-19 215648" src="https://github.com/user-attachments/assets/eb7d2eea-dd2f-417c-8afc-984dd3595370" />
+
 
 ### 2. Employee Table
 [View raw file](./employees.csv)
@@ -40,7 +44,8 @@ date, job title, department, salary, marital status, and contact
 details. This was the messiest of the three tables, with inconsistent 
 date formats, missing values, and inconsistent text casing.
 
-![Employee Table](/0_Resources/Images/employee_table.png)
+<img width="1084" height="486" alt="Screenshot 2026-09-19 220021" src="https://github.com/user-attachments/assets/ac54d1ad-ee64-4a8e-9f2d-d4e9f7a0e407" />
+
 
 ### 3. Performance Table
 [View raw file](./performance_records.txt)
@@ -50,7 +55,7 @@ recording attendance, hours worked, overtime, performance score,
 bonuses, and salary paid. At over 13,000 rows, this is the largest 
 table and the primary fact table joined against the other two.
 
-![Performance Table](/0_Resources/Images/performance_table.png)
+<img width="810" height="418" alt="Screenshot 2026-09-19 220153" src="https://github.com/user-attachments/assets/b61a03b3-9ec0-48bd-9fc1-eeae5f59c2fd" />
 
 ## Tools Used
 
